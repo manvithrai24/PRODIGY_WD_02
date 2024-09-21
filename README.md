@@ -9,3 +9,6 @@ This project has been an enriching experience, enabling me to:
 
 
 A heartfelt thanks to **Prodigy InfoTech** for their continuous support and guidance. I’m eager to take on more challenges and further my skills in web development!
+
+![image](https://github.com/user-attachments/assets/44f8cadb-2b22-4bb9-b8db-1316e49b6140)
+
